@@ -12,6 +12,17 @@
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-192x192.png" sizes="192x192"/>
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
 <link rel="icon" href="/images/favicon.ico"/>
-<meta name="theme-color" content="#ffffff"/>
+<meta name="theme-color" content="#1a0f0a"/>
+
+<!-- Default to the dark appearance for first-time visitors; returning visitors keep their toggle choice -->
+<script>
+  (function () {
+    try {
+      if (!localStorage.getItem("theme")) {
+        document.documentElement.setAttribute("data-theme", "dark");
+      }
+    } catch (e) {}
+  })();
+</script>
 
 <!-- end custom head snippets -->

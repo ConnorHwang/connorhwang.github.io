@@ -11,4 +11,4 @@ I am a Physical Science Research Scientist at the [Center for Turbulence Researc
 
 My research centers on interfacial dynamics, turbulence-interface interaction, atomization. I build and apply computational methods that resolve the fine-scale physics governing these flows, with the goal of predictive design of engineering applications.
 
-You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=gjXzICUAAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-0743-1925). I will be adding my CV and a fuller description of recent projects soon.
+You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=gjXzICUAAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-0743-1925), and download my [CV (PDF)](/files/CV_Hanul_Hwang.pdf).

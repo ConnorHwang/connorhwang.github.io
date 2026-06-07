@@ -5,6 +5,7 @@ category: manuscripts
 permalink: /publication/2022-01-01-plosive-consonants-imaging-soft-electronics
 date: 2022-01-01
 venue: 'Proceedings of the National Academy of Sciences'
+paperurl: 'https://doi.org/10.1073/pnas.2214164119'
 citation: 'J. T. Kim, W. Ouyang, H. Hwang, et al.. (2022). &quot;Dynamics of plosive consonants via imaging, computations, and soft electronics.&quot; <i>Proceedings of the National Academy of Sciences</i>.'
 ---
 
